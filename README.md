@@ -3,9 +3,9 @@
 
 ###  Bem-vindo e Bem-vinda ao meu GitHub! Que a Força esteja com você! <img src="https://github.com/VivianneChristi/VivianneChristi/assets/61090532/e8e6b09f-4c70-441a-b4fe-98bfcd9a7146" alt="image" style= "width: 50px" align="center" >
 
-- Dev em formação
-- Desing Web
-- 
+### 🚀 Dev em formação<br>
+### 💻 Desing Web<br>
+
 
 ---
 <div>
