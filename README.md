@@ -34,7 +34,7 @@
   
  🚀 &emsp; Estudante de Desenvolvimento de Sistemas <br/><br/>
  ❤️ &emsp; Gosto de explorar o mundo da tecnologia <br/><br/>
- 📧 &emsp; Entre em contato comigo: viviannec.mferreira@gmail.com<br/><br/>
+ 
 
 </p>
 
