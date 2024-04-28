@@ -1,7 +1,7 @@
 <!-- Intro  -->
 <h3 align="center">
         <samp>&gt; Hello There!, Eu sou a
-                <b><a target="_blank" href="https://alsiam.com">Vivianne Christi</a></b>
+                <b><a target="_blank" href="">Vivianne Christi</a></b>
         </samp>
 </h3>
 
