@@ -34,7 +34,8 @@
   
  🚀 &emsp; Estudante de Desenvolvimento de Sistemas <br/><br/>
  ❤️ &emsp; Gosto de explorar o mundo da tecnologia <br/><br/>
- 
+ 🐾 &emsp; Apaixonada por pets <br/><br/>
+ 🎮 &emsp; Jogos favoritos : Zelda, Assassin's Creed, Days Gone<br/><br/>
 
 </p>
 
